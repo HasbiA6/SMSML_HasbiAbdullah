@@ -1,5 +1,0 @@
-Repository DagsHub:
-https://dagshub.com/HasbiA6/Eksperimen_SML_HasbiAbdullah
-
-MLflow Tracking URI:
-https://dagshub.com/HasbiA6/Eksperimen_SML_HasbiAbdullah.mlflow
