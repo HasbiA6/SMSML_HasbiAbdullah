@@ -1,0 +1,11 @@
+digest: 6fb655de
+name: dataset
+profile: '{"num_rows": 268, "num_elements": 1608}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "age", "required": true}, {"type":
+  "string", "name": "sex", "required": true}, {"type": "double", "name": "bmi", "required":
+  true}, {"type": "long", "name": "children", "required": true}, {"type": "string",
+  "name": "smoker", "required": true}, {"type": "string", "name": "region", "required":
+  true}]}'
+source: '{"tags": {"mlflow.user": "user", "mlflow.source.name": "c:\\Users\\user\\Downloads\\SMSML_Hasbi-Abdullah\\Membangun_Model\\Modelling.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "4c40e4ce5e6d68dffa13a6923cbe489d57d6d386"}}'
+source_type: code

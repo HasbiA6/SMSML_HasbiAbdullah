@@ -1,0 +1,1 @@
+[('num', 'passthrough', ['age', 'bmi', 'children']), ('cat', OneHotEncoder(handle_unknown='ignore'), ['sex', 'smoker', 'region'])]
